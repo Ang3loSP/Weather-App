@@ -6,7 +6,7 @@ A responsive, single-page weather application that displays real-time weather co
 
 ## 🚀 Live Demo
 
-> Deployed on Netlify — (https://your-site-name.netlify.app)
+> Deployed on Netlify — (angelosp-weather.netlify.app)
 
 ---
 
